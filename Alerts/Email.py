@@ -1,3 +1,4 @@
+# Demonstration of Sending Alerts via EMAIL
 import re
 import datetime
 import smtplib
